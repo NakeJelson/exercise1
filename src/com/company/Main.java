@@ -17,3 +17,4 @@ public class Main {
         System.out.println("Average  High Temperature: " + avgTemp);
     }
 }
+//Jake Nelson 1-20 exercise 1
